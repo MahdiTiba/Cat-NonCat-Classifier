@@ -3,5 +3,3 @@
 
 
 a deep L-layer neural network, and apply it to supervised learning
-this is a test message
-this is another test
